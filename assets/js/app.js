@@ -206,6 +206,7 @@ const scrollToTop = () => {
   });
 };
 
+
 // Window Loads
 $(function () {
   let bodyElement = $(`body`);
